@@ -1,0 +1,4 @@
+cachetools==7.1.4
+currencies==2020.12.12
+humanize==4.15.0
+Requests==2.34.2
